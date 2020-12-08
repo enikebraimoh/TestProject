@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <array name="spin">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+    </array>
+</resources>
